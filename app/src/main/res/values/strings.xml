@@ -1,11 +1,12 @@
 <resources>
     <string name="app_name">My Application2</string>
-    <string name="nombre">Nombre</string>
-    <string name="ingrese_mail">Ingrese Mail</string>
-    <string name="ingrese_apellido">Ingrese Apellido</string>
-    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="nombre">Name</string>
+    <string name="ingrese_mail">Enter E-mail</string>
+    <string name="ingrese_apellido">Enter Last Name</string>
+    <string name="ingrese_nombre">Enter Name</string>
     <string name="sing_up">Sing Up</string>
     <string name="buttom_sing_up">Sing Up</string>
     <string name="yes_agree_all">Yes ! Agree all</string>
     <string name="teams_condition"><![CDATA[Teams & Condition]]></string>
+    <string name="ingrese_clave">Enter Password</string>
 </resources>

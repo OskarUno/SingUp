@@ -108,7 +108,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="35dp"
         android:ems="10"
-        android:hint="Ingrese Clave"
+        android:hint="@string/ingrese_clave"
         android:inputType="textPassword"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="@+id/editTextName"

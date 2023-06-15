@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Aplicacion</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingrese_mail">Ingrese Mail</string>
+    <string name="ingrese_apellido">Ingrese Apellido</string>
+    <string name="ingrese_nombre">Ingrese Nombre</string>
+    <string name="sing_up">Ingresar</string>
+    <string name="buttom_sing_up">Ingresar</string>
+    <string name="yes_agree_all">Estoy de acuerdo</string>
+    <string name="teams_condition"><![CDATA[Terminos y Condiciones]]></string>
+    <string name="ingrese_clave">Ingrese Clave</string>
+</resources>
